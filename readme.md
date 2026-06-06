@@ -90,6 +90,7 @@ Notable self-sovereign identity products and services that are in production.
 - [Paradym](https://paradym.id/) - SaaS platform for building your SSI solutions.
 - [Trinsic](https://trinsic.id/) - An end-to-end self sovereign identity platform by Trinsic.
 - [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Verifiable trust receipts for Solana AI agents. Cryptographically signed attestations (structurally similar to W3C Verifiable Credentials) proving agent wallet identity and trust score; callable via MCP. Zero-install integration.
 - [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
 - [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
 
